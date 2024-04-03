@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         double precoAlcool = Double.parseDouble(editPreçoAlcool.getText().toString());
         double precoGasolina = Double.parseDouble(editPrecoGasolina.getText().toString());
 
-     /*Faz calulo (precoAlcool/ precoGasolina)
+     /*Faz calculo (precoAlcool/ precoGasolina)
       Se resultado >=0.7 Melhor utilizar Gasolina
       Senão melhor utilizar alcool
       */
